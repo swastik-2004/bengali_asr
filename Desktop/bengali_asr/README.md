@@ -175,3 +175,10 @@ Not all ML projects succeed
 Correct diagnosis is as valuable as a working model
 
 The same pipeline, applied to the right data, does succeed
+
+<img width="1920" height="1031" alt="Screenshot (678)" src="https://github.com/user-attachments/assets/d73e8bac-83f7-4ec0-885b-5be1e0931d64" />
+
+
+<img width="1920" height="1035" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/39697512-d208-460e-acdd-ba4f6b749c31" />
+
+
